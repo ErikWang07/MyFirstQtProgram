@@ -1,5 +1,5 @@
 # MyFirstQtProgram
-<English>I'm new to Qt C++,I need help.But I meet these in Visual Studio 2019:  
+<English英文>I'm new to Qt C++,I need help.But I meet these in Visual Studio 2019:  
 <Chinese中文>在下是Qt新人，遇到了一些问题，求助！以下是详情（VS2019）：
 	
 	严重性	代码	说明	项目	文件	行	禁止显示状态
